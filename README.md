@@ -1,3 +1,6 @@
+# Info
+Latest: ``31.10``
+
 # Requirements
 > A brain
 > Simple knowlage of VSCode / any Next editor
