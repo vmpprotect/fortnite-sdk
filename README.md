@@ -13,3 +13,6 @@
 
 > Example CurrentWeapon is used in diffrent classes, verify if the offset is only added a tiny bit :)
 
+> Baseadress of dump : 0x7FF745A60000
+
+> Credits to andriod for dump <3
