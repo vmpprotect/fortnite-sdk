@@ -1,0 +1,20 @@
+#pragma once
+
+// Dumped with <3 by android1337
+// Version: ++Fortnite+Release-31.00-CL-35447195
+// Package: GameplayEventRouter
+// Current Base + Text VA: 0x0
+// WARNING: Memory::va_text is 0, ufunctions will show current addresses
+
+namespace SDK
+{
+
+	// Enum /Script/GameplayEventRouter.EEventBubblingRule
+	enum EEventBubblingRule
+	{
+		EEventBubblingRule__None = 0,
+		EEventBubblingRule__Down = 1,
+		EEventBubblingRule__Up = 2,
+	};
+
+}
