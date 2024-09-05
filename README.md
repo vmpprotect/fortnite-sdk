@@ -1,5 +1,6 @@
 # Requirements
 > A brain
+
 > Simple knowlage of VSCode / any Next editor
 
 # Simple Tutorial
